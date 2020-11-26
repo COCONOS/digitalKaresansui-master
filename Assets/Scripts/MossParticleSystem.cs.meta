@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0cde97deec49979489cbc3264058ab99
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SimpleParticleComputeShader: {instanceID: 0}
+  - SimpleParticleRenderShader: {instanceID: 0}
+  - fc: {instanceID: 0}
+  - ParticleTex: {instanceID: 0}
+  - RenderCam: {instanceID: 0}
+  - vectorGrid: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
